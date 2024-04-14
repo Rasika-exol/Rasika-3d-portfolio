@@ -35,7 +35,7 @@ export default function Home() {
             RASIKA
           </h1>
           <p className="font-light text-foreground text-lg">
-            WEB DEVELOPER WIZARD
+            Web Development Virtuoso
           </p>
         </div>
       </div>
